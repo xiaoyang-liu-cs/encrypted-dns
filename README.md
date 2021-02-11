@@ -1,5 +1,3 @@
-![](https://repository-images.githubusercontent.com/149012325/dc2c4080-9627-11ea-988d-e4cabff99fb2)
-
 # Encrypted-DNS
 
 [![License](https://img.shields.io/github/license/Berkeley-Reject/Encrypted-DNS.svg?style=for-the-badge)](https://github.com/Berkeley-Reject/Encrypted-DNS/blob/master/LICENSE)

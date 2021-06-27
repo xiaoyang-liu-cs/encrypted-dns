@@ -3,4 +3,4 @@ chardet==3.0.4
 dnspython==1.16.0
 idna==2.9
 requests==2.23.0
-urllib3==1.25.9
+urllib3==1.26.5
